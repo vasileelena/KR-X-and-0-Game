@@ -9,7 +9,7 @@ Implemented a X and 0 inspired game that has the next features:
 - the board is a 10x10 grid; for the initial board check initial_board.jpg from project
 - you can place only two symbols at once that can be next to each other(orizantal move) or one above the other (vertical move)
 - the move must have among its "neighbours" at least one X and one 0; exemple of some valid moves at valid_moves.jpg
-- you earn one point when you form a diagonal from three of your symbols, visible in the file diagonals.jpg
+- you earn one point when you form a diagonal from three of your symbols, visible in the file diagonal.jpg
 - the game ends when the time is up, or when there aren't any valid moves on the board
 
 # Features
