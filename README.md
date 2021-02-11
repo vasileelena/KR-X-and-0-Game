@@ -8,3 +8,15 @@ Implemented a X and 0 inspired game that has the next features:
 - you can set the time and the level of difficulty 
 - the board is a 10x10 grid that initially looks like this:
 
+  |0 1 2 3 4 5 6 7 8 9 
+----------------------
+0 |# # # # # # # # # #\n
+1 |# # # # # # # # # #\n
+2 |# # # # # # # # # #
+3 |# # # # # # # # # #
+4 |# # # # x 0 # # # #
+5 |# # # # x 0 # # # #
+6 |# # # # # # # # # #
+7 |# # # # # # # # # #
+8 |# # # # # # # # # #
+9 |# # # # # # # # # #
