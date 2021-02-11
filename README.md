@@ -13,6 +13,7 @@ Implemented a X and 0 inspired game that has the next features:
 - the game ends when the time is up, or when there aren't any valid moves on the board
 
 # Features
-The game has a console interface, as well as  graphic one, implemented using pygame.
+The game has a console interface, as well as a graphic one, implemented using pygame.
+
 At the end of the game, you get the statistics of your game, such as: the minimum, maximum, mean and median of the computer's "thinking" times, the number of moves for each player, the time of playing. The winner (or draw) is also announced.
 
